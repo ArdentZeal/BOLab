@@ -1,0 +1,16 @@
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/entities/User.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/controller/ValueController.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/utils/Base64.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/dao/AbstractDAO.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/rest/Token.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/rest/User.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/rest/Picture.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/database/Initializer.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/rest/UploadedFile.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/dao/PictureDAO.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/entities/Picture.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/dao/UserDAO.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/CacheControlPhaseListener.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/utils/ImageUtils.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/backend/rest/RESTController.java
+/Users/matthias/Documents/workspace/PictureCommunity/src/main/java/de/hska/iwii/picturecommunity/security/SpringUserDetailsService.java
